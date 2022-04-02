@@ -1,5 +1,4 @@
 ### Basic git workflow for commiting changes
-
 ---
 
 1. create a new repo on github
