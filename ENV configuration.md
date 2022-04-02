@@ -10,7 +10,7 @@
    MONGODB_URL=URL_TO_MONGODB
    SERVER_URL=URL_TO_SERVER
    ```
-   This file will have actual values, which are required app to be functional
+   This file will have actual values, which are required for the app to be functional
 3. Create a duplicate env file with name `.env.example`
 4. In this file, do not put actual required env values, but keep the required keys with some dummy values as shown above
    This is done, if your project is open source, and you want community to understand what are the required variables to run this app.
