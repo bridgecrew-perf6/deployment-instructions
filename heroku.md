@@ -1,6 +1,6 @@
 #### Prerequisits
 1. Create a free Heroku account
-2. Install (Heroku CLI)[https://cli.heroku.com/]
+2. Install [Heroku CLI](https://cli.heroku.com/)
 
 #### Deployment
 
