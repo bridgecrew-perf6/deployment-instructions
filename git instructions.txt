@@ -1,5 +1,5 @@
 ### Basic git workflow for commiting changes
-------------
+---
 
 1. create a new repo on github
 2. go into the folder in which you want to initialize using "git init"
