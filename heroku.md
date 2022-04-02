@@ -9,7 +9,7 @@
 
 1. Make sure you have `engine` property defined inside your package json, it should match with your current version of node installed within your system.
   - to check current version of node, run this command inside you local machine: `node -v`, which will show `v16.14.0`
-  - if its version is 16.x.x then write following inside package.json
+  - if its version is 16.x.x then write following inside `package.json`
     ```
     {
       ...
