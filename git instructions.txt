@@ -9,4 +9,3 @@
 4. Login into vercel
 5. New Project
 6. Connect git repositories
-7. And as per application specification deploy
