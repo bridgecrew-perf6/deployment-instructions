@@ -13,7 +13,7 @@
     ```
     {
       ...
-      "engine": {
+      "engines": {
         "node": "16.x"
       }
       ...
@@ -21,7 +21,7 @@
     ```
 2. Once this is done, you can directly start your app locally using following command
   `heroku local web`
-3. This will create a `Procfile`, a file without any extension, which is required for deployment.
+3. Now create a `Procfile`, a file without any extension, which is required for deployment.
 4. This file will have instructions for running your node app on deployment server.
    the content will look something like this: `web: node app.js`, make sure the file name matches with your starting point of node app.
 5. Once done, commit your changes and push.
